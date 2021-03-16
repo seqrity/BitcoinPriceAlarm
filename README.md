@@ -7,7 +7,7 @@
 `pip3 install -r requirements.txt`
 
 
-This simple script gets Bitcoin prices from [Coindesk](https://www.coindesk.com/price/bitcoin) and alarm on your price that you have set.
+This simple script gets Bitcoin prices from [Coindesk](https://www.coindesk.com/price/bitcoin) and alarms on your price that you have set.
 
 For receiveing alarm on Slack you should replace your slack's webhook with `YOUR_SLACK_HOOK`
 
